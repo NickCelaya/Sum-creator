@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.testClass {
+    height: 50px;
+    width: inherit;
+    background-color: red;
+}
+
